@@ -6,7 +6,7 @@ import java.util.Collections;
 import java.util.List;
 import java.util.Random;
 
-public class SortingAlgorithmComparison {
+public class SortingAlgorithm {
 
     private static long statementCount;
 
