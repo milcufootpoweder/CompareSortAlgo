@@ -25,7 +25,7 @@ public class SortingAlgorithmComparison {
             testSortingAlgorithm("Bubble Sort", new ArrayList<>(bestCase), new ArrayList<>(worstCase), new ArrayList<>(averageCase));
             testSortingAlgorithm("Insertion Sort", new ArrayList<>(bestCase), new ArrayList<>(worstCase), new ArrayList<>(averageCase));
             testSortingAlgorithm("Selection Sort", new ArrayList<>(bestCase), new ArrayList<>(worstCase), new ArrayList<>(averageCase));
-                    System.out.println("---------------------");
+                    System.out.println("--------------------");
         }
     }
 
